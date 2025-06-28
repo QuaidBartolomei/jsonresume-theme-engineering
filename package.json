@@ -18,6 +18,7 @@
   "license": "MIT",
   "scripts": {
     "start": "resume serve --theme .",
+    "start:watch": "nodemon --watch views --watch style.css --exec 'resume serve --theme .'",
     "export": "resume export --theme . resume.pdf"
   },
   "dependencies": {
@@ -25,6 +26,7 @@
     "handlebars": "^4.7.8",
     "handlebars-wax": "^6.1.0",
     "moment": "^2.30.1",
+    "nodemon": "^3.1.10",
     "swag": "^0.7.0"
   },
   "devDependencies": {
