@@ -1,0 +1,140 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Quaid Bartolomei",
+    "label": "Full Stack Developer",
+    "email": "quaid.bartolomei@gmail.com",
+    "website": "",
+    "summary": "Self-taught Full Stack Developer passionate about improving developer experiences. Experienced in React, TypeScript, CI/CD, and cross-platform mobile development. Proven track record in improving code quality, automating workflows, and delivering robust features for web and mobile.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "quaidb",
+        "url": "https://linkedin.com/in/quaidb/"
+      },
+      {
+        "network": "GitHub",
+        "username": "QuaidBartolomei",
+        "url": "https://github.com/QuaidBartolomei"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Linq",
+      "location": "Remote",
+      "description": "",
+      "position": "Full Stack Engineer",
+      "website": "",
+      "startDate": "2022-03",
+      "endDate": "2025-06",
+      "summary": "Core engineer for a web and mobile digital business card platform with CRM integrations. Led development as the product evolved to include an AI-powered VOIP and SMS service, driving major improvements in authentication, performance, and developer experience.",
+      "highlights": [
+        "Key contributor in a fast-paced startup, deploying to production multiple times daily across web and mobile on a small engineering team.",
+        "Spearheaded the migration of a large JavaScript codebase to strict TypeScript, enhancing safety and maintainability across 600+ files.",
+        "Designed robust development workflows and CI/CD pipelines, ensuring long-term code health and rapid iteration.",
+        "Established E2E testing frameworks, significantly boosting product reliability and developer velocity.",
+        "Built and maintained cross-platform mobile features with Capacitor, including a fully featured VoIP calling plugin.",
+        "Automated mobile app releases using Fastlane, streamlining delivery to iOS and Android platforms.",
+        "Integrated authentication and SSO solutions, including Google, Apple, and LinkedIn, to enhance security and onboarding flexibility.",
+        "Optimized frontend bundle size and performance, establishing CI tooling to prevent regressions and maintain high standards.",
+        "Migrated frontend architecture to Vite, reducing build times by 80% and improving developer experience.",
+        "Documented and streamlined local mobile development and E2E testing workflows for the team.",
+        "Mentored teammates and served as the go-to expert in React, CI/CD, and modern frontend tooling.",
+        "Drove continuous improvements in developer experience through automation and workflow enhancements.",
+        "Created a lightweight version of the app for release as an Apple App Clip by developing separate build scripts and implementing CI/CD checks to ensure the build size stayed within Apple's limits."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web & Mobile Development",
+      "level": "Advanced",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "React Native",
+        "Capacitor",
+        "Node.js",
+        "Rails",
+        "REST"
+      ]
+    },
+    {
+      "name": "DevOps & Tooling",
+      "level": "Advanced",
+      "keywords": [
+        "GitHub Actions",
+        "CI/CD",
+        "Fastlane",
+        "E2E Testing",
+        "Unit Testing",
+        "Playwright",
+        "Xcode",
+        "Android Studio",
+        "Git",
+        "Bundle Analysis"
+      ]
+    },
+    {
+      "name": "Styling",
+      "level": "Intermediate",
+      "keywords": [
+        "Tailwind CSS",
+        "Storybook"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Diablo View College",
+      "area": "Biological Sciences",
+      "studyType": "A.S.",
+      "location": "",
+      "specialization": "",
+      "startDate": "2015-09",
+      "endDate": "2017-06",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "volunteer": [
+    {
+      "organization": "Greenstand",
+      "position": "Full Stack Engineer",
+      "website": "",
+      "location": "Remote",
+      "startDate": "2021-10",
+      "endDate": "2022-03",
+      "summary": "Open source organization that tracks global reforestation efforts on an individual scale with a map website and mobile reporting app and converts this work into a traceable, trackable token asset.",
+      "highlights": [
+        "Improved project infrastructure by adding custom ESLint rules and introducing TypeScript for better code quality and maintainability.",
+        "Wrote E2E tests using Cypress to ensure reliability and catch regressions early.",
+        "Developed microservices for processing RabbitMQ events, enabling scalable asynchronous workflows.",
+        "Reviewed pull requests and collaborated with contributors in an open source environment."
+      ]
+    }
+  ],
+  "publications": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "lastModified": "2025-06-26T00:00:00"
+  }
+}
