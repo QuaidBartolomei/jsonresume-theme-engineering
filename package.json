@@ -19,7 +19,8 @@
   "scripts": {
     "start": "resume serve --theme .",
     "start:watch": "nodemon --watch views --watch style.css --exec 'resume serve --theme .'",
-    "export": "resume export --theme . resume.pdf"
+    "export": "resume export --theme . resume.pdf",
+    "export:watch": "nodemon --watch views --watch style.css --watch resume.json --exec 'npm run export'"
   },
   "dependencies": {
     "address-format": "0.0.3",

@@ -5,12 +5,12 @@
     "label": "Full Stack Developer",
     "email": "quaid.bartolomei@gmail.com",
     "website": "",
-    "summary": "Self-taught Full Stack Developer passionate about improving developer experiences. Experienced in React, TypeScript, CI/CD, and cross-platform mobile development. Proven track record in improving code quality, automating workflows, and delivering robust features for web and mobile.",
+    "summary": "Senior Full Stack Developer with deep expertise in React, TypeScript, and building scalable web and mobile applications. Proven leader in architecting solutions, optimizing developer workflows, and driving high-impact projects from backend to frontend.",
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "quaidb",
-        "url": "https://linkedin.com/in/quaidb/"
+        "url": "https://linkedin.com/in/quaidb"
       },
       {
         "network": "GitHub",
@@ -25,10 +25,10 @@
       "location": "Remote",
       "description": "",
       "position": "Full Stack Engineer",
-      "website": "",
+      "website": "https://linqapp.com",
       "startDate": "2022-03",
       "endDate": "2025-06",
-      "summary": "Core engineer for a web and mobile digital business card platform with CRM integrations. Led development as the product evolved to include an AI-powered VOIP and SMS service, driving major improvements in authentication, performance, and developer experience.",
+      "summary": "Digital business card platform for professionals and organizations to share contact info, manage connections, and integrate with CRMs. Offers web and mobile apps, advanced authentication, and AI-powered VOIP/SMS.",
       "highlights": [
         "Key contributor in a fast-paced startup, deploying to production multiple times daily across web and mobile on a small engineering team.",
         "Spearheaded the migration of a large JavaScript codebase to strict TypeScript, enhancing safety and maintainability across 600+ files.",
@@ -36,7 +36,7 @@
         "Established E2E testing frameworks, significantly boosting product reliability and developer velocity.",
         "Built and maintained cross-platform mobile features with Capacitor, including a fully featured VoIP calling plugin.",
         "Automated mobile app releases using Fastlane, streamlining delivery to iOS and Android platforms.",
-        "Integrated authentication and SSO solutions, including Google, Apple, and LinkedIn, to enhance security and onboarding flexibility.",
+        "Integrated OAuth and SSO solutions, including Google, Apple, and LinkedIn, to enhance security and onboarding flexibility.",
         "Optimized frontend bundle size and performance, establishing CI tooling to prevent regressions and maintain high standards.",
         "Migrated frontend architecture to Vite, reducing build times by 80% and improving developer experience.",
         "Documented and streamlined local mobile development and E2E testing workflows for the team.",
@@ -70,6 +70,7 @@
         "E2E Testing",
         "Unit Testing",
         "Playwright",
+        "Cypress",
         "Xcode",
         "Android Studio",
         "Git",
@@ -81,14 +82,16 @@
       "level": "Intermediate",
       "keywords": [
         "Tailwind CSS",
-        "Storybook"
+        "Storybook",
+        "Material UI"
       ]
     },
     {
       "name": "Database",
       "level": "Intermediate",
       "keywords": [
-        "PostgreSQL"
+        "PostgreSQL",
+        "MongoDB"
       ]
     }
   ],
