@@ -1,12 +1,24 @@
-<div class="item-header">
+<div class='item-header'>
+  <div>
     {{#if title}}
-    <div class="item-header-title">
-        {{title}}
-    </div>
+      <span class='item-header-title'>
+        <span class='item-company-name'>
+          {{title}}
+        </span>
+      </span>
+      &nbsp;
     {{/if}}
-    {{#if subtitle}}
-    <div class="item-header-subtitle">
-        {{subtitle}}
-    </div>
+    {{#if website}}
+      <span class='item-company-website'>
+        <a href='{{website}}' target='_blank' rel='noopener'>
+          {{website}}
+        </a>
+      </span>
     {{/if}}
+  </div>
+  {{#if subtitle}}
+    <div class='item-header-subtitle'>
+      {{subtitle}}
+    </div>
+  {{/if}}
 </div>

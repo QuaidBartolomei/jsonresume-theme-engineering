@@ -54,6 +54,8 @@
         "React",
         "TypeScript",
         "React Native",
+        "Swift",
+        "Android Java",
         "Capacitor",
         "Node.js",
         "Rails",
@@ -71,8 +73,6 @@
         "Unit Testing",
         "Playwright",
         "Cypress",
-        "Xcode",
-        "Android Studio",
         "Git",
         "Bundle Analysis"
       ]
@@ -113,7 +113,7 @@
     {
       "organization": "Greenstand",
       "position": "Full Stack Engineer",
-      "website": "",
+      "website": "https://greenstand.org",
       "location": "Remote",
       "startDate": "2021-10",
       "endDate": "2022-03",
